@@ -176,9 +176,14 @@ body {
   font-size: 3rem;
   display: flex;
   justify-content: center;
+  font-family: "Bebas Neue", cursive;
 }
 #container h2 {
   font-size: 2rem;
+}
+#main p {
+  font-family: "Orbitron", sans-serif;
+  font-size: 1.5rem;
 }
 #introduction p {
   border-top: solid 2px white;
@@ -191,4 +196,9 @@ body {
 #work-history p {
   border-top: solid 2px white;
   border-bottom: solid 2px black;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  padding-top: 5%;
 }
